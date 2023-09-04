@@ -1,0 +1,110 @@
+commit 7161395e157350b03a57ec8649f67db799582909
+Author: OswaldoChin <oswchinoc@upt.pe>
+Date:   Mon Sep 4 15:37:13 2023 -0500
+
+    Agregando 2 parrafos
+
+commit 10ed1c3321e483637555989503e5e68b663d18ba
+Merge: 05ff519 135857c
+Author: OswaldoChin <oswchinoc@upt.pe>
+Date:   Mon Sep 4 15:33:20 2023 -0500
+
+    resolviendo conflicto en  estaciones del año y fecha de incio
+
+commit 05ff519ba5f99f20365358361607b14cc452a148
+Author: OswaldoChin <oswchinoc@upt.pe>
+Date:   Mon Sep 4 15:18:55 2023 -0500
+
+    Agregando estaciones del año con fechas
+
+commit 135857c4a98fed8a84cf8a7c3ca8ba5a3486bfc2
+Author: OswaldoChin <oswchinoc@upt.pe>
+Date:   Mon Sep 4 15:18:55 2023 -0500
+
+    Agregando las estaciones del año
+
+commit 7116dccf0d9707dbe1ee9947d496eb4c67427043
+Merge: c839a83 613da7d
+Author: OswaldoChin <oswchinoc@upt.pe>
+Date:   Mon Sep 4 15:13:25 2023 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 613da7dd580a267b34c37b8b9473457a172d58ff
+Author: OswaldoChin <oswchinoc@upt.pe>
+Date:   Mon Sep 4 15:06:55 2023 -0500
+
+    Agregando index.js al index.html
+
+commit c839a834de85050eaeb13faf34eaa45a2dfbed25
+Author: OswaldoChin <oswchinoc@upt.pe>
+Date:   Mon Sep 4 15:03:59 2023 -0500
+
+    Add style.css to index.html
+
+commit b3ba038c83deb6fac96b12aa9f527fc9d72ebf60
+Merge: d351f2b 21bab1e
+Author: OswaldoChin <oswchinoc@upt.pe>
+Date:   Mon Sep 4 14:53:09 2023 -0500
+
+    Merge branch 'js'
+
+commit 21bab1e1f6810e38f0e8909be69ee42bdc7a177b
+Author: OswaldoChin <oswchinoc@upt.pe>
+Date:   Mon Sep 4 14:46:37 2023 -0500
+
+    Create index.js
+
+commit d351f2bcfbcbf200dcc16558114684e564545266
+Author: OswaldoChin <oswchinoc@upt.pe>
+Date:   Mon Sep 4 14:41:45 2023 -0500
+
+    Create style.css
+
+commit 2ab5a66bc8702f3cdfdd74a1ba164c0ebdb768f9
+Author: OswaldoChin <oswchinoc@upt.pe>
+Date:   Mon Sep 4 14:37:11 2023 -0500
+
+    Create index.html
+
+commit a11486d7bbf3aad273733e83196b49960f48e791
+Author: OswaldoChin <oswchinoc@upt.pe>
+Date:   Mon Sep 4 14:17:59 2023 -0500
+
+    Ignorando .exe
+
+commit 5822eac375bcbab2539bbb048013056f40def703
+Author: OswaldoChin <oswchinoc@upt.pe>
+Date:   Mon Sep 4 13:02:19 2023 -0500
+
+    more_comands
+
+commit 2ac9fa0bc3d87307947f6f512e150e75cd00c624
+Author: OswaldoChin <81051599+OswaldoChin@users.noreply.github.com>
+Date:   Mon Sep 4 12:50:56 2023 -0500
+
+    Create LICENSE of repos
+
+commit 2b8d324ba8387df79d7eacffc0b88897b8896ab5
+Author: OswaldoChin <oswchinoc@upt.pe>
+Date:   Mon Sep 4 12:42:00 2023 -0500
+
+    comandos_finales
+
+commit 5ad5b9647d809b34326254d276c5bade18635da6
+Author: OswaldoChin <oswchinoc@upt.pe>
+Date:   Mon Sep 4 12:38:40 2023 -0500
+
+    final_commit
+
+commit e9ff10378e6abfab2f56eb9a7dc2619218dd0d82
+Author: OswaldoChin <oswchinoc@upt.pe>
+Date:   Mon Sep 4 12:34:49 2023 -0500
+
+    credentials_final
+
+commit eb8fd4415980db1fe4d0a94991052c3a252473b3
+Author: Oswaldo <oswchinoc@upt.pe>
+Date:   Mon Sep 4 10:42:27 2023 -0500
+
+    commit 01
